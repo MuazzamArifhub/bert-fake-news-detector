@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+tqdm
+regex
+beautifulsoup4
+torch
+transformers
+datasets
+fastapi
+uvicorn
+joblib
